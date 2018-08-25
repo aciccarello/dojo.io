@@ -173,6 +173,6 @@ In the event that the development team requires a higher level of control than D
 
 This brings us to the end of the beginner tutorials for Dojo. At this point, you should have a good understanding of how to build simple applications with Dojo. There are, however, many more features that Dojo has to offer.
 
-To learn about those features, take a look at the [advanced tutorials](../tutorials/) section where you will find more tutorials that demonstrate how to use features that almost every application needs such as creating in-page routers, working with client-side data stores, and more.
+To learn about those features, take a look at the [advanced tutorials](..) section where you will find more tutorials that demonstrate how to use features that almost every application needs such as creating in-page routers, working with client-side data stores, and more.
 
 {% section 'last' %}
